@@ -34,11 +34,7 @@ These are the main results on the [Sea animal](https://www.kaggle.com/datasets/v
 
 ## Project Structure
   ```
-  model-compression/
-  │
-  ├── notbook - main script to run
-  ├── Data/ directory containing 14,000 sea animals images of 23 species 
-  │   
+  notebook - main script    
 ## TODOs
 - [ ] Run on Jupiter 
 
